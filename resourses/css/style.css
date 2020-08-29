@@ -48,7 +48,7 @@ h1,
 h2,
 h3 {
     font-weight: 300;
-    text-transform: uppercase;    
+    text-transform: uppercase;
 }
 
 h1 {
@@ -370,7 +370,7 @@ blockquote:before {
     display: block;
     position: absolute;
     top: -5px;
-    left: -5px; 
+    left: -5px;
 }
 
 cite {
@@ -462,7 +462,7 @@ textarea {
 }
 
 input[type = checkbox] {
-    margin: 10px 5px 10px 0; 
+    margin: 10px 5px 10px 0;
 }
 
 *:focus {outline: none;}
