@@ -579,3 +579,22 @@ footer p {
     text-align: center;
     margin-top: 20px;
 }
+
+/* Animations */
+
+.js--wp-1,
+.js--wp-2,
+.js--wp-3 {
+    opacity: 0;
+}
+
+.js--wp-1.animate__animated,
+.js--wp-2.animate__animated,
+.js--wp-3.animate__animated {
+    opacity: 1;
+    animation-duration: 2s;
+}
+
+.js--wp-4.animate__animated {
+    animation-duration: 2s;
+}

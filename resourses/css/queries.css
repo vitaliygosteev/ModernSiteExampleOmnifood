@@ -23,7 +23,7 @@
     .works-steps:last-of-type { margin-bottom: 60px; }
     .app-screen { width: 50%; }
     .icon-small { width: 20px;
-                  margin-right: 5px;}
+                margin-right: 5px;}
     .city-feature { font-size: 90%; }
     .plan-box {
         width: 100%;
@@ -40,7 +40,7 @@
     .row,
     .hero-text-box { padding: 0 4%; }
     .col { width: 100%;
-           margin: 0 0 4% 0;
+        margin: 0 0 4% 0;
         }
     .main-nav { display: none; }
     h1 { font-size: 180%; }
